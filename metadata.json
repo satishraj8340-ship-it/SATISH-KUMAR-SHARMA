@@ -1,0 +1,6 @@
+{
+  "name": "KamaiKart",
+  "description": "Official portal of RSPSA Retail India Private Limited (KamaiKart). Premium rural commerce ecosystem, enabling micro-entrepreneurship, merchant supply chains, and PPM networks across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
